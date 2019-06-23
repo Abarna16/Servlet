@@ -1,0 +1,13 @@
+<web-app>  
+  
+<servlet>  
+<servlet-name>abar</servlet-name>  
+<servlet-class>Second</servlet-class>  
+</servlet>  
+  
+<servlet-mapping>  
+<servlet-name>abar</servlet-name>  
+<url-pattern>/welcome</url-pattern>  
+</servlet-mapping>  
+  
+</web-app>  
